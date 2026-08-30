@@ -1,5 +1,5 @@
 # KNN-Tutorial2
-## Disclaimer: This repository is a dummy to try my first Git profile.
+## Disclaimer: This repository is a dummy to try my first Git profile. The contents are generated from Chat GPT
 Implementation of the K-Nearest Neighbors (KNN) algorithm for classification and regression using Python.
 # Titanic Survival Prediction using K-Nearest Neighbors (KNN)
 
